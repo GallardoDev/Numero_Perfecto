@@ -1,2 +1,3 @@
 # Numero_Perfecto
 Obtención de números perfectos automáticamente 
+Un número perfecto es aquel que es igual a la suma de sus divisores propios, es decir, todos los divisores del número excepto el propio número. Los primeros cuatro números perfectos fueron conocidos desde la antigüedad griega, mientras que el quinto número perfecto fue descubierto en el siglo XVIII. Estos números se encuentran en el rango de 1 a 33.550.336, y son generados por una fórmula que involucra números primos. La obtención de la cantidad de números perfectos por medio de este código va a depender de la memoria del dispositivo en que se ejecute. Saludos, GallardoDev.
